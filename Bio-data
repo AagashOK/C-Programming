@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Name:Aagash O.K\n");
+    printf("D.O.B:12.09.2006\n");
+    printf("Father name:Kumar.M\n");
+    printf("Father occpation:Teacher\n");
+    printf("Mother name:Annapoorani.K\n");
+    printf("Mother occpation:Homemaker\n");
+    printf("Certification:Photoshop,coreldraw,tamiltypewriting,Diploma in Microoffice\n");
+    printf("Blood group:A1+Ve\n");
+    printf("street name:Eswaran temple street\n");
+    printf("City:Salem\n");
+    printf("Known language:Tamil,English\n");
+    printf("Aim:Web Developer");
+        return 0;
+}
